@@ -1,0 +1,126 @@
+Validating homework
+Se verifica pagina index.html
+Se elimina tag-urile <blockquote> pentru a se putea incarca corect pagina in browser.
+1. [Verificare Existenta Pagina] Passed : Pagina este prezenta
+2. [Verificare Titlul Pagina] Passed : Titlul este corect
+3. [Verificare Existenta Meta Keywords] Passed : Tag-ul meta exista
+4. [Verificare existenta attribut content pentru tagul meta] Passed : OK
+5. [Verificare keyword tzyGSWgpZrYAliLMhVmk] Passed : OK
+6. [Verificare keyword NKruZMzVOp] Passed : OK
+7. [Existenta nav] Passed : OK
+8. [Existenta link catre index.html] Passed : OK
+9. [Verificare Text Link] Passed : OK
+10. [Existenta link catre login.html] Passed : OK
+11. [Verificare Text Link] Passed : OK
+12. [Existenta link catre register.html] Passed : OK
+13. [Verificare Text Link] Passed : OK
+14. [Existenta link catre edit_article.html] Passed : OK
+15. [Verificare Text Link] Passed : OK
+16. [Existenta link catre search.html] Passed : OK
+17. [Verificare Text Link] Passed : OK
+18. [Verificare existenta div JqCUBlvStx] Passed : OK
+19. [Verificare existenta div PZoDqUbMhZ] Passed : OK
+20. [Verificare Titlu] Passed : OK
+21. [Verificare existenta element paragraf] Passed : OK
+22. [Verificare tag cite pentru absenta] Passed : OK
+23. [Verificare numar de cuvinte] Passed : OK
+24. [Verificare tag sup pentru absenta] Passed : OK
+25. [Verificare tag sub pentru absenta] Passed : OK
+26. [Punctare cerinta invalida blockquote] Passed : OK
+27. [Verificare existenta imagine de tip PNG cu dimensiunile 176x418 si text alternativ IYMDaBLYgYQozVK] Passed : OK
+28. [Imagine a fost incarcata corect] Passed : OK
+29. [Verificare existenta tabel] Passed : OK
+30. [Verificare numar de randuri] Passed : OK
+31. [Verificare numar de coloane] Passed : OK
+32. [Verificare existenta element paragraf] Passed : OK
+33. [Verificare tag cite pentru absenta] Passed : OK
+34. [Verificare numar de cuvinte] Passed : OK
+35. [Verificare tag sup pentru absenta] Passed : OK
+36. [Verificare tag sub pentru prezenta] Passed : OK
+37. [Punctare cerinta invalida blockquote] Passed : OK
+38. [Verificare existenta Video] Passed : OK
+39. [Verificare tip video] Passed : OK
+40. [Verificare dimensiuni video] Passed : OK
+41. [Verificare existenta div GVneRbBUxB] Passed : OK
+42. [Verificare Categorie] Passed : OK
+43. [Verificare existenta div TiRsOnnWXI] Passed : OK
+44. [Verificare User] Passed : OK
+45. [Verificare existenta div data] Passed : OK
+46. [Verificare Data] Passed : Data este corecta
+47. [Verificare existenta div nQeYOrzQmQ] Passed : OK
+48. [Verificare existenta div bBTrJlzsWf] Passed : OK
+49. [Verificare Titlu] Passed : OK
+50. [Verificare existenta element paragraf] Passed : OK
+51. [Verificare tag cite pentru prezenta] Passed : OK
+52. [Verificare numar de cuvinte] Passed : OK
+53. [Verificare tag sup pentru prezenta] Passed : OK
+54. [Verificare tag sub pentru prezenta] Passed : OK
+55. [Punctare cerinta invalida blockquote] Passed : OK
+56. [Verificare existenta imagine de tip GIF cu dimensiunile 301x509 si text alternativ DqKZHFpvtSAUbGS] Passed : OK
+57. [Imagine a fost incarcata corect] Passed : OK
+58. [Verificare existenta imagine de tip GIF cu dimensiunile 508x395 si text alternativ cFteHAAWPRDWKnV] Passed : OK
+59. [Imagine a fost incarcata corect] Passed : OK
+60. [Verificare existenta tabel] Passed : OK
+61. [Verificare numar de randuri] Passed : OK
+62. [Verificare numar de coloane] Passed : OK
+63. [Verificare existenta element paragraf] Passed : OK
+64. [Verificare tag cite pentru absenta] Passed : OK
+65. [Verificare numar de cuvinte] Passed : OK
+66. [Verificare tag sup pentru absenta] Passed : OK
+67. [Verificare tag sub pentru absenta] Passed : OK
+68. [Punctare cerinta invalida blockquote] Passed : OK
+69. [Verificare existenta div HrifFownvU] Passed : OK
+70. [Verificare Categorie] Passed : OK
+71. [Verificare existenta div NJtQjFbOlO] Passed : OK
+72. [Verificare User] Passed : OK
+73. [Verificare existenta div data] Passed : OK
+74. [Verificare Data] Passed : Data este corecta
+75. [Verificare existenta div DyhmHrlvQl] Passed : OK
+76. [Verificare existenta div VKYIAZGBHH] Passed : OK
+77. [Verificare Titlu] Passed : OK
+78. [Verificare existenta element paragraf] Passed : OK
+79. [Verificare tag cite pentru absenta] Passed : OK
+80. [Verificare numar de cuvinte] Passed : OK
+81. [Verificare tag sup pentru prezenta] Passed : OK
+82. [Verificare tag sub pentru absenta] Passed : OK
+83. [Punctare cerinta invalida blockquote] Passed : OK
+84. [Verificare existenta imagine de tip GIF cu dimensiunile 148x183 si text alternativ QpWhUkkCdspGxTb] Passed : OK
+85. [Imagine a fost incarcata corect] Passed : OK
+86. [Verificare existenta imagine de tip GIF cu dimensiunile 427x189 si text alternativ kxBhLdcqFdkBvcC] Passed : OK
+87. [Imagine a fost incarcata corect] Passed : OK
+88. [Verificare existenta imagine de tip JPEG cu dimensiunile 242x447 si text alternativ mdHSELFgQdElIqL] Passed : OK
+89. [Imagine a fost incarcata corect] Passed : OK
+90. [Verificare existenta tabel] Passed : OK
+91. [Verificare numar de randuri] Passed : OK
+92. [Verificare numar de coloane] Passed : OK
+93. [Verificare existenta element paragraf] Passed : OK
+94. [Verificare tag cite pentru absenta] Passed : OK
+95. [Verificare numar de cuvinte] Passed : OK
+96. [Verificare tag sup pentru prezenta] Passed : OK
+97. [Verificare tag sub pentru prezenta] Passed : OK
+98. [Punctare cerinta invalida blockquote] Passed : OK
+99. [Verificare existenta div WFUnQjgvtg] Passed : OK
+100. [Verificare Categorie] Passed : OK
+101. [Verificare existenta div rUIEHCwUxY] Passed : OK
+102. [Verificare User] Passed : OK
+103. [Verificare existenta div data] Passed : OK
+104. [Verificare Data] Passed : Data este corecta
+Se verifica pagina login.html
+105. [Verificare Existenta Pagina] Passed : Pagina este prezenta
+106. [Verificare Titlul Pagina] Passed : Titlul este corect
+107. [Verificare Existenta Meta Keywords] Passed : Tag-ul meta exista
+108. [Verificare existenta attribut content pentru tagul meta] Passed : OK
+109. [Verificare keyword login] Passed : OK
+110. [Verificare keyword tQGgWQvyhbgKfmfxierI] Passed : OK
+111. [Verificare existenta formular] Passed : OK
+112. [Verificare metoda de submit formular] Passed : OK
+113. [Existenta caseta de input text] Passed : OK
+114. [Verificare nume camp text] Passed : OK
+115. [Verificare lungime maxima camp text] Passed : OK
+116. [Verificare text initial pentru camp] Passed : OK
+117. [Existenta caseta de password] Passed : OK
+118. [Verificare nume camp password] Passed : OK
+119. [Verificare lungime maxima camp text] Passed : OK
+120. [Verificare Prezenta Submit] Passed : OK
+121. [Verificare Text Submit] Passed : OK
+Scor final 121 / 121 = 1.0 * 0.8 = 0.8

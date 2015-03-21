@@ -1,0 +1,238 @@
+﻿Pagina Principala: 
+Acest element va avea urmatoarele proprietati:
+Numele fisierului HTML: index.html
+Titlul paginii : CWibfHoedVeWlOXkrGWTpyUjn
+Meta Keywords : tzyGSWgpZrYAliLMhVmk, NKruZMzVOp
+si urmatoarele subelemente: 
+	Meniu de navigare (nav): 
+	Acest element va avea urmatoarele proprietati:
+	ID : gFPmyrdvcj
+	si urmatoarele subelemente: 
+		Link (a): 
+		Acest element va avea urmatoarele proprietati:
+		Pagina catre care pointeaza link-ul : index.html
+		Text link : vdwhznpezspsygbicbuv
+
+		Link (a): 
+		Acest element va avea urmatoarele proprietati:
+		Pagina catre care pointeaza link-ul : login.html
+		Text link : eclozcpbtjafmlfgksea
+
+		Link (a): 
+		Acest element va avea urmatoarele proprietati:
+		Pagina catre care pointeaza link-ul : register.html
+		Text link : expbrrdgfyytmocuuhtu
+
+		Link (a): 
+		Acest element va avea urmatoarele proprietati:
+		Pagina catre care pointeaza link-ul : edit_article.html
+		Text link : suwpmcxcdtniukgbpctf
+
+		Link (a): 
+		Acest element va avea urmatoarele proprietati:
+		Pagina catre care pointeaza link-ul : search.html
+		Text link : fzikxaawnashwlczsjhn
+
+	div (Articol Text): 
+	Acest element va avea urmatoarele proprietati:
+	ID : JqCUBlvStx
+	si urmatoarele subelemente: 
+		Titlu Articol (div): 
+		Acest element va avea urmatoarele proprietati:
+		ID: PZoDqUbMhZ
+		Titlu: AMZIBCUVTBVBFDIEGMUY
+
+		Paragraf text (p): 
+		Acest element va avea urmatoarele proprietati:
+		Numar de cuvinte: 40
+		Trebuie sa contina tag-uri blockquote : false
+		Trebuie sa contina tag-uri cite: false
+		Trebuie sa contina tag-uri super: false
+		Trebuie sa contina tag-uri sub: false
+
+			
+
+		Tabel (table): 
+		Acest element va avea urmatoarele proprietati:
+		Numar de randuri: 4
+		Numar de coloane: 4
+		Randul in care se afla elementul text: 2
+		Coloana in care se afla elementul text: 2
+		si urmatoarele subelemente: 
+			Paragraf text (p): 
+			Acest element va avea urmatoarele proprietati:
+			Numar de cuvinte: 35
+			Trebuie sa contina tag-uri blockquote : true
+			Trebuie sa contina tag-uri cite: false
+			Trebuie sa contina tag-uri super: false
+			Trebuie sa contina tag-uri sub: true
+
+		Video (video tag): 
+		Acest element va avea urmatoarele proprietati:
+		Surse video: {:format_video=>"OGG", :dimensiuni=>"320x240"}
+
+		Categorie (div): 
+		Acest element va avea urmatoarele proprietati:
+		ID : GVneRbBUxB
+		Categorie: Cars
+
+		User (div): 
+		Acest element va avea urmatoarele proprietati:
+		ID: TiRsOnnWXI
+		Username: wdfzm@qzesk.ro
+
+		Data Articol (div): 
+		Acest element va avea urmatoarele proprietati:
+		ID : dPfniOHiiL
+		Data : 1974-03-24 22:07:30 +0200
+
+	div (Articol Text): 
+	Acest element va avea urmatoarele proprietati:
+	ID : nQeYOrzQmQ
+	si urmatoarele subelemente: 
+		Titlu Articol (div): 
+		Acest element va avea urmatoarele proprietati:
+		ID: bBTrJlzsWf
+		Titlu: FJBSFYIBAJMWXMGJGGLF
+
+		Paragraf text (p): 
+		Acest element va avea urmatoarele proprietati:
+		Numar de cuvinte: 39
+		Trebuie sa contina tag-uri blockquote : true
+		Trebuie sa contina tag-uri cite: true
+		Trebuie sa contina tag-uri super: true
+		Trebuie sa contina tag-uri sub: true
+
+		Imagine (img): 
+		Acest element va avea urmatoarele proprietati:
+		Tipul imaginii: GIF
+		Dimensiuni imagine : 301x509
+		Text alternativ: DqKZHFpvtSAUbGS
+
+		Imagine (img): 
+		Acest element va avea urmatoarele proprietati:
+		Tipul imaginii: GIF
+		Dimensiuni imagine : 508x395
+		Text alternativ: cFteHAAWPRDWKnV
+
+		Tabel (table): 
+		Acest element va avea urmatoarele proprietati:
+		Numar de randuri: 5
+		Numar de coloane: 3
+		Randul in care se afla elementul text: 1
+		Coloana in care se afla elementul text: 1
+		si urmatoarele subelemente: 
+			Paragraf text (p): 
+			Acest element va avea urmatoarele proprietati:
+			Numar de cuvinte: 10
+			Trebuie sa contina tag-uri blockquote : true
+			Trebuie sa contina tag-uri cite: false
+			Trebuie sa contina tag-uri super: false
+			Trebuie sa contina tag-uri sub: false
+
+		Categorie (div): 
+		Acest element va avea urmatoarele proprietati:
+		ID : HrifFownvU
+		Categorie: Sports
+
+		User (div): 
+		Acest element va avea urmatoarele proprietati:
+		ID: NJtQjFbOlO
+		Username: uakav@nhlmv.ro
+
+		Data Articol (div): 
+		Acest element va avea urmatoarele proprietati:
+		ID : FnagLVgDCS
+		Data : 1974-01-22 08:22:39 +0200
+
+	div (Articol Text): 
+	Acest element va avea urmatoarele proprietati:
+	ID : DyhmHrlvQl
+	si urmatoarele subelemente: 
+		Titlu Articol (div): 
+		Acest element va avea urmatoarele proprietati:
+		ID: VKYIAZGBHH
+		Titlu: OWJXGHRGUWUYBHBQXEBP
+
+		Paragraf text (p): 
+		Acest element va avea urmatoarele proprietati:
+		Numar de cuvinte: 41
+		Trebuie sa contina tag-uri blockquote : true
+		Trebuie sa contina tag-uri cite: false
+		Trebuie sa contina tag-uri super: true
+		Trebuie sa contina tag-uri sub: false
+
+		Imagine (img): 
+		Acest element va avea urmatoarele proprietati:
+		Tipul imaginii: GIF
+		Dimensiuni imagine : 148x183
+		Text alternativ: QpWhUkkCdspGxTb
+
+		Imagine (img): 
+		Acest element va avea urmatoarele proprietati:
+		Tipul imaginii: GIF
+		Dimensiuni imagine : 427x189
+		Text alternativ: kxBhLdcqFdkBvcC
+
+		Imagine (img): 
+		Acest element va avea urmatoarele proprietati:
+		Tipul imaginii: JPEG
+		Dimensiuni imagine : 242x447
+		Text alternativ: mdHSELFgQdElIqL
+
+		Tabel (table): 
+		Acest element va avea urmatoarele proprietati:
+		Numar de randuri: 3
+		Numar de coloane: 3
+		Randul in care se afla elementul text: 1
+		Coloana in care se afla elementul text: 2
+		si urmatoarele subelemente: 
+			Paragraf text (p): 
+			Acest element va avea urmatoarele proprietati:
+			Numar de cuvinte: 47
+			Trebuie sa contina tag-uri blockquote : false
+			Trebuie sa contina tag-uri cite: false
+			Trebuie sa contina tag-uri super: true
+			Trebuie sa contina tag-uri sub: true
+
+		Categorie (div): 
+		Acest element va avea urmatoarele proprietati:
+		ID : WFUnQjgvtg
+		Categorie: Random
+
+		User (div): 
+		Acest element va avea urmatoarele proprietati:
+		ID: rUIEHCwUxY
+		Username: aunju@lengv.ro
+
+		Data Articol (div): 
+		Acest element va avea urmatoarele proprietati:
+		ID : eqimkZakrx
+		Data : 1974-01-04 23:48:45 +0200
+
+Pagina Login: 
+Acest element va avea urmatoarele proprietati:
+Numele fisierului HTML: login.html
+Titlul paginii : WldLneCdvjPFqWyUDrUyeUUQd
+Meta Keywords : login, tQGgWQvyhbgKfmfxierI
+si urmatoarele subelemente: 
+	Formular (form): 
+	Acest element va avea urmatoarele proprietati:
+	Pagina Destinatie : index.html
+	Metoda formular : POST
+	si urmatoarele subelemente: 
+		Username (text input): 
+		Acest element va avea urmatoarele proprietati:
+		Nume camp: AGVBtaFUNb
+		Lungime maxima : 36
+		Text initial: wHkECmcKJOnDUsaqjYWq
+
+		Parola (password input): 
+		Acest element va avea urmatoarele proprietati:
+		Nume camp: mjLVjACPGH
+		Lungime maxima : 22
+
+		Buton Login (submit input): 
+		Acest element va avea urmatoarele proprietati:
+		Text button login: Login to vDlRoJQJCV
+
